@@ -1,26 +1,31 @@
 ## Getting Starting
 
-Clone the project repository on your machine<br>
+1 - Clone the project repository on your machine<br>
 ```bash
 git clone https://github.com/jairoevaristo/API_Autentication_JWT.git
 ```
+<hr>
+<br>
 
-Enter the project directory and install the project facilities<br>
-```
+2 - Enter the project directory and install the project facilities<br>
+
+```bash
 yarn
 ```
-or<br>
+<p align="center">or<br></p>
 
-```
+```bash
 npm install
 ```
-<br> 
-To start the server just run the command<br>
+<hr>
+<br>
 
-```
+3 - To start the server just run the command<br>
+
+```bash
 yarn dev
 ```
-or<br>
+<p align="center">or<br></p>
 
 ```bash 
 npm run dev
