@@ -1,4 +1,4 @@
-## Getting Starting
+## Getting Started
 
 1 - Clone the project repository on your machine<br>
 ```bash
