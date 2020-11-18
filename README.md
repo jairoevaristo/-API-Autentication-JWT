@@ -12,7 +12,9 @@ git clone https://github.com/jairoevaristo/API_Autentication_JWT.git
 ``
 yarn
 ``
-<br>or<br>
+
+or<br>
+
 ``
 npm install
 ``
