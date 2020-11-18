@@ -12,10 +12,8 @@ or <br>
 ```npm install
 ```
 <br> 
-
 - To start the server just run the command
 <br>
 ```yarn dev```<br>
-
 or<br>
 ```npm run dev```
