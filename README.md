@@ -31,7 +31,7 @@ npm run dev
 
 **The application runs on localhost on port 3001**
 
-- Route that lists registered users, to access this route it is necessary to authenticate. In the request I received a header authorization with a bearer and the token. [GET]
+- Route that lists the registered users and shows the email of the currently active user, to access this route it is necessary to authenticate. In the request, I received a header authorization with a holder and the token. [GET]
 
 ```
 http://localhost:3001/index
