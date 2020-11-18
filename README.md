@@ -5,7 +5,6 @@
 git clone https://github.com/jairoevaristo/API_Autentication_JWT.git
 ```
 <hr>
-<br>
 
 2 - Enter the project directory and install the project facilities<br>
 
@@ -18,7 +17,6 @@ yarn
 npm install
 ```
 <hr>
-<br>
 
 3 - To start the server just run the command<br>
 
