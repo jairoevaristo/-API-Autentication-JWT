@@ -24,3 +24,32 @@ or
 `` 
 npm run dev
 ``
+<hr>
+
+## Using directions
+
+**The application runs on localhost on port 3001**
+
+- Route that lists registered users, to access this route it is necessary to authenticate. In the request I received a header authorization with a bearer and the token. [GET]
+
+```
+http://localhost:3001/index
+```
+
+- Route of registering users, I received an email and password in the body of the request. [POST]
+
+```
+http://localhost:3001/store
+```
+
+- Route that performs the user authentication in the application, I received an email and a password in the body of the request, and returns an access token. [POST]
+
+```
+http://localhost:3001/auth
+```
+
+<hr>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
