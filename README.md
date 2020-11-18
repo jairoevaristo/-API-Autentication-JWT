@@ -6,8 +6,7 @@ git clone https://github.com/jairoevaristo/API_Autentication_JWT.git
 ```
 
 - Enter the project directory and install the project facilities
-<br>```
-yarn```
+<br>```yarn```
 <br>
 or <br>
 ```npm install
@@ -19,5 +18,4 @@ or <br>
 ```yarn dev```<br>
 
 or<br>
-```npm run dev
-```
+```npm run dev```
