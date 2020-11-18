@@ -1,6 +1,6 @@
 ## Getting Starting
 
-- Clone the project repository on your machine
+- Clone the project repository on your machine<br>
 ``
   https://github.com/jairoevaristo/API_Autentication_JWT.git
 ``
