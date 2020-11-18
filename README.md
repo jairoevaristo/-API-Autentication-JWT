@@ -25,6 +25,7 @@ or
 npm run dev
 ``
 <hr>
+<br>
 
 ## Using directions
 
@@ -49,6 +50,7 @@ http://localhost:3001/auth
 ```
 
 <hr>
+<br>
 
 ## License
 
