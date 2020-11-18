@@ -1,12 +1,14 @@
 ## Getting Starting
 
 - Clone the project repository on your machine<br>
-```
- git clone https://github.com/jairoevaristo/API_Autentication_JWT.git
+```bash
+git clone https://github.com/jairoevaristo/API_Autentication_JWT.git
 ```
 
 - Enter the project directory and install the project facilities
-<br>```yarn``` <br>
+<br>```
+yarn
+``` <br>
 or <br>
 ```npm install```<br> 
 
