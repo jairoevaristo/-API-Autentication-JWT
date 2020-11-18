@@ -2,7 +2,7 @@
 
 - Clone the project repository on your machine<br>
 ``
-  https://github.com/jairoevaristo/API_Autentication_JWT.git
+ git clone https://github.com/jairoevaristo/API_Autentication_JWT.git
 ``
 
 - Enter the project directory and install the project facilities
